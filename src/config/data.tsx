@@ -7,7 +7,8 @@ export const blogList = [
     description:
       "經過數月的努力與團隊合作，我們的軟體開發計畫終於來到了一個重要的里程碑。從需求分析、設計、程式碼編寫到測試，每一步都是一次對專業技能與團隊合作的挑戰。回顧這段期間，雖然我們遇到了許多困難與挑戰，但也學到了很多。軟體不僅僅是程式碼，更重要的是解決問題與提供價值的能力。我們深知這只是開始，未來還有更多的可能性等著我們去探索，但在此刻，我們為我們所達成的感到自豪。謝謝每一位參與此計畫的夥伴，期待我們下一次的冒險！",
     authorName: "Rafael Hsieh",
-    authorAvatar: "/assets/images/author.jpg",
+    authorAvatar:
+      "https://lh3.googleusercontent.com/ogw/AGvuzYYB5bvMpKypRErxTpCXgQAM0raGm9Eb-zXcy_c=s32-c-mo",
     createdAt: "August 13, 2023",
     cover:
       "https://images.unsplash.com/photo-1500835556837-99ac94a94552?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dHJhdmVsfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
