@@ -11,6 +11,7 @@ export interface BlogData {
   createdAt: string; // or Date if you're using a Date object
   authorName: string;
   authorAvatar: string; // Should this be authorAvatar?
+  subCategory: string[];
   category: string;
   cover: string;
 }
@@ -28,6 +29,7 @@ const BlogItem: React.FC<BlogItemProps> = ({
     authorName,
     authorAvatar,
     category,
+    subCategory,
     cover,
   },
 }) => {
